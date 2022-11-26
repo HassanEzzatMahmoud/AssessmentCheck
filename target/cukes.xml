@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="25.94">
+    <testcase classname="User can register when entering valid credentials" name="User can register with valid mandatory fields" time="25.711">
+        <system-out><![CDATA[Given User enters valid mandatory fields"hassan","ezzat","hassanezzat4@gmail.com","01060940018","selenium-automation","april".passed
+When User Click register button.............................................passed
+Then User registered successfully...........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
